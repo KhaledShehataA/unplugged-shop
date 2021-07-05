@@ -1,0 +1,15 @@
+{
+  "name": "unplugged-shop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": "https://github.com/KhaledShehataA/unplugged-shop.git",
+  "author": "KhaledShehataA <khaled.ah.shehata@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
