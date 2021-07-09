@@ -1,6 +1,6 @@
-import Mongoose from 'mongoose';
+import mongoose from 'mongoose';
 
-const userSchema = Mongoose.Schema(
+const userSchema = mongoose.Schema(
 	{
 		name: {
 			type: String,
